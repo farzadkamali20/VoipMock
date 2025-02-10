@@ -1,0 +1,46 @@
+{
+  "ResponseStatus":0,
+  "Message" : "",
+  "Result": [
+       {
+          "Id":1,
+          "UserName":"فرزاد کمالی",
+          "ChannelName":"اندروید",
+          "MessageType":2,
+          "Description":"",
+          "Date":"2023-10-27T12:34:56"
+       },
+       {
+          "Id":2,
+          "UserName":"فرزاد کمالی",
+          "ChannelName":"اندروید",
+          "MessageType":3,
+          "Description":"",
+          "Date":"2023-10-27T12:34:56"
+       },
+       {
+          "Id":3,
+          "UserName":"فرزاد کمالی",
+          "ChannelName":"اندروید",
+          "MessageType":1,
+          "Description":"سلام. خوب هستید؟ میخواستم نکته ای رو در خصوص اون موضوع مطرح کنم. ",
+          "Date":"2023-10-27T12:34:56"
+       },
+       {
+          "Id":4,
+          "UserName":"فرزاد کمالی",
+          "ChannelName":"اندروید",
+          "MessageType":3,
+          "Description":"",
+          "Date":"2023-10-27T12:34:56"
+       },
+       {
+          "Id":5,
+          "UserName":"فرزاد کمالی",
+          "ChannelName":"اندروید",
+          "MessageType":2,
+          "Description":"",
+          "Date":"2023-10-27T12:34:56"
+       }
+  ]
+}
