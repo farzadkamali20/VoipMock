@@ -7,7 +7,7 @@
           "UserName":"فرزاد کمالی",
           "ChannelName":"اندروید",
           "MessageType":2,
-          "Description":"",
+          "Description":"صوت",
           "Date":"2023-10-27T12:34:56"
        },
        {
@@ -15,7 +15,7 @@
           "UserName":"فرزاد کمالی",
           "ChannelName":"اندروید",
           "MessageType":3,
-          "Description":"",
+          "Description":"ویدئو",
           "Date":"2023-10-27T12:34:56"
        },
        {
@@ -31,7 +31,7 @@
           "UserName":"فرزاد کمالی",
           "ChannelName":"اندروید",
           "MessageType":3,
-          "Description":"",
+          "Description":"ویدئو",
           "Date":"2023-10-27T12:34:56"
        },
        {
@@ -39,7 +39,7 @@
           "UserName":"فرزاد کمالی",
           "ChannelName":"اندروید",
           "MessageType":2,
-          "Description":"",
+          "Description":"صوت",
           "Date":"2023-10-27T12:34:56"
        }
   ]
