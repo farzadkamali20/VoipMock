@@ -17,7 +17,7 @@
           "ChannelName":"اندروید",
           "MessageType":2,
           "Description":"",
-         "Url":"https://aspb34.asset.aparat.com/aparat-video/e453c79bddc2b060a33b6529725250b240704278-480p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjFhODZlNjEwNWMwNjE2NDhkNmU3ZDllN2MxNDM3Y2E2IiwiZXhwIjoxNzM5MzExMjA4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.d5N0R-SBoeSL9MogY8wo6hMAYuITZCtWJObVjIxF7uk",
+         "Url":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
        
          "Date":"2023-10-27T12:34:56"
        },
@@ -36,7 +36,7 @@
           "ChannelName":"اندروید",
           "MessageType":2,
           "Description":"",
-          "Url":"https://aspb34.asset.aparat.com/aparat-video/42247b9185e3ca1ed604be7c4af2415338057227-480p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjZlYzMzNWZjMjE3OTQ0NmIxNThmNjlmM2E4NDM2MjcyIiwiZXhwIjoxNzM5MzExNzQyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.rb67sAgcIPoH1PHLqL3hZ006xSqziXy7j78xGqlBonc",
+          "Url":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
           "Date":"2023-10-27T12:34:56"
        },
        {
