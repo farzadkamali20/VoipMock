@@ -1,0 +1,57 @@
+{
+  "ResponseStatus":0,
+  "Message" : "",
+  "Result": [
+      {
+          "Id":1,
+          "ChannelName":"کانال 1",
+          "MembersCount":10
+      },
+     {
+          "Id":1,
+          "ChannelName":"کانال 2",
+          "MembersCount":4
+      },
+      {
+          "Id":1,
+          "ChannelName":"کانال 3",
+          "MembersCount":50
+      },
+      {
+          "Id":1,
+          "ChannelName":"کانال 4",
+          "MembersCount":14
+      },
+      {
+          "Id":1,
+          "ChannelName":"کانال 5",
+          "MembersCount":25
+      },
+      {
+          "Id":1,
+          "ChannelName":"کانال 6",
+          "MembersCount":12
+      },
+      {
+          "Id":1,
+          "ChannelName":"کانال 7",
+          "MembersCount":20
+      },
+      {
+          "Id":1,
+          "ChannelName":"کانال 8",
+          "MembersCount":16
+      },
+      {
+          "Id":1,
+          "ChannelName":"کانال 9",
+          "MembersCount":31
+      },
+      {
+          "Id":1,
+          "ChannelName":"کانال 10",
+          "MembersCount":27
+      }
+  ]
+
+}
