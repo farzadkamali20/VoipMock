@@ -17,7 +17,7 @@
           "ChannelName":"اندروید",
           "MessageType":2,
           "Description":"",
-         "Url":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+         "Url":"https://raw.githubusercontent.com/farzadkamali20/VoipMock/main/test1.mp4",
        
          "Date":"2023-10-27T12:34:56"
        },
@@ -36,7 +36,7 @@
           "ChannelName":"اندروید",
           "MessageType":2,
           "Description":"",
-          "Url":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "Url":"https://raw.githubusercontent.com/farzadkamali20/VoipMock/main/test2.mp4",
           "Date":"2023-10-27T12:34:56"
        },
        {
