@@ -7,42 +7,54 @@
           "Name":"فرزاد کمالی",
           "SenderUserId":1,
           "Description":"سلام و درود. میخواستم در خصوص اون پروژه نکته ای رو بگم.",
-          "Date":"2023-10-27T12:34:56"
+          "Date":"2023-10-27T12:34:56",
+          "MessageType":3,
+          "Url":null
        },
       {
           "Id":2,
           "Name":"حامد احمدی",
           "SenderUserId":2,
           "Description":"سلام و درود. بفرمایید",
-          "Date":"2023-10-27T12:34:56"
+          "Date":"2023-10-27T12:34:56",
+          "MessageType":2,
+           "Url":"https://raw.githubusercontent.com/farzadkamali20/VoipMock/main/test1.mp4",
        },
      {
           "Id":3,
           "Name":"فرزاد کمالی",
           "SenderUserId":1,
           "Description":"سلام و درود. میخواستم در خصوص اون پروژه نکته ای رو بگم.",
-          "Date":"2023-10-27T12:34:56"
+          "Date":"2023-10-27T12:34:56",
+          "MessageType":3,
+          "Url":null
        },
      {
           "Id":4,
           "Name":"فرزاد کمالی",
           "SenderUserId":1,
           "Description":"سلام و درود. میخواستم در خصوص اون پروژه نکته ای رو بگم.",
-          "Date":"2023-10-27T12:34:56"
+          "Date":"2023-10-27T12:34:56",
+          "MessageType":3,
+          "Url":null
        },
      {
           "Id":5,
           "Name":"فرزاد کمالی",
           "SenderUserId":1,
           "Description":"سلام و درود. میخواستم در خصوص اون پروژه نکته ای رو بگم.",
-          "Date":"2023-10-27T12:34:56"
+          "Date":"2023-10-27T12:34:56",
+          "MessageType":3,
+          "Url":null
        },
      {
           "Id":6,
           "Name":"فرزاد کمالی",
           "SenderUserId":1,
           "Description":"سلام و درود. میخواستم در خصوص اون پروژه نکته ای رو بگم.",
-          "Date":"2023-10-27T12:34:56"
+          "Date":"2023-10-27T12:34:56",
+          "MessageType":3,
+          "Url":null
        },
      {
           "Id":7,
@@ -50,49 +62,63 @@
           "Name":"حامد احمدی",
           "SenderUserId":2,
           "Description":"سلام و درود. میخواستم در خصوص اون پروژه نکته ای رو بگم.",
-          "Date":"2023-10-27T12:34:56"
+          "Date":"2023-10-27T12:34:56",
+          "MessageType":3,
+          "Url":null
        },
      {
           "Id":8,
            "Name":"حامد احمدی",
           "SenderUserId":2,
           "Description":"سلام و درود. میخواستم در خصوص اون پروژه نکته ای رو بگم.",
-          "Date":"2023-10-27T12:34:56"
+          "Date":"2023-10-27T12:34:56",
+          "MessageType":3,
+          "Url":null
        },
      {
           "Id":9,
           "Name":"فرزاد کمالی",
           "SenderUserId":1,
           "Description":"سلام و درود. میخواستم در خصوص اون پروژه نکته ای رو بگم.",
-          "Date":"2023-10-27T12:34:56"
+          "Date":"2023-10-27T12:34:56",
+          "MessageType":3,
+          "Url":null
        },
      {
           "Id":10,
           "Name":"فرزاد کمالی",
           "SenderUserId":1,
           "Description":"سلام و درود. میخواستم در خصوص اون پروژه نکته ای رو بگم.",
-          "Date":"2023-10-27T12:34:56"
+          "Date":"2023-10-27T12:34:56",
+          "MessageType":3,
+          "Url":null
        },
      {
           "Id":11,
           "Name":"فرزاد کمالی",
           "SenderUserId":1,
           "Description":"سلام و درود. میخواستم در خصوص اون پروژه نکته ای رو بگم.",
-          "Date":"2023-10-27T12:34:56"
+          "Date":"2023-10-27T12:34:56",
+          "MessageType":3,
+          "Url":null
        },
      {
           "Id":12,
           "Name":"فرزاد کمالی",
           "SenderUserId":1,
           "Description":"سلام و درود. میخواستم در خصوص اون پروژه نکته ای رو بگم.",
-          "Date":"2023-10-27T12:34:56"
+          "Date":"2023-10-27T12:34:56",
+          "MessageType":3,
+          "Url":null
        },
      {
           "Id":13,
           "Name":"فرزاد کمالی",
           "SenderUserId":1,
           "Description":"سلام و درود. میخواستم در خصوص اون پروژه نکته ای رو بگم.",
-          "Date":"2023-10-27T12:34:56"
+          "Date":"2023-10-27T12:34:56",
+          "MessageType":3,
+          "Url":null
        }
   ]
 }
